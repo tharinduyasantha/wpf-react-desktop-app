@@ -1,1 +1,1 @@
-# WPFCompact
+# WPF-React Desktop Application
